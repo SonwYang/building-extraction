@@ -52,3 +52,5 @@
 
 [实例化F1](https://tianchi.aliyun.com/competition/entrance/231767/information)
 
+# PS
+如果你不熟悉深度学习在提取建筑物的使用，你可以尝试运行下这个kaggle上的[notebook](https://www.kaggle.com/yangpeng1995/building-extraction-in-deep-learning/data)。

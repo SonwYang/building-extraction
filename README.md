@@ -1,5 +1,5 @@
 # building-extraction-based-on-deep-learning
-This repo is the pytorch implementation of paper "![HA U-Net: Improved Model for Building Extraction From High Resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/9486859)".
+This repo is the pytorch implementation of paper "[HA U-Net: Improved Model for Building Extraction From High Resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/9486859)".
 
 # 前言
 

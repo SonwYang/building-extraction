@@ -1,4 +1,6 @@
 # building-extraction-based-on-deep-learning
+This repo is the pytorch implementation of paper "![HA U-Net: Improved Model for Building Extraction From High Resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/9486859)".
+
 # 前言
 
 语义分割在基于高分影像的建筑提取中不能区分不同的建筑个体，因为在建筑密集区其通常将同一个类的对象紧密地打包成一个连接的组件，即使是优秀的语义分割网络模型也不可避免地会产生这样的结果。而实例分割可以较好地解决这个问题，精准到建筑个体的分割结果在绘制地图、城市规划以及人口估计中将会大有可为。
@@ -54,3 +56,6 @@
 
 # PS
 如果你不熟悉深度学习在提取建筑物的使用，你可以尝试运行下这个kaggle上的[notebook](https://www.kaggle.com/yangpeng1995/building-extraction-in-deep-learning/data)。
+
+# Citation
+If you find our work useful in your research, please cite
